@@ -1,0 +1,33 @@
+body {
+    color: #A8E1FF;
+    background-color: #103447;
+}
+a:link, a:visited {
+    background-color: #4590B0;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #999999;
+  }
+  body {
+      margin-top: 0px;
+      margin-left: 50px;
+      margin-bottom: 0px;
+      margin-right: 50px;
+  }
+  .r {
+      text-align: center;
+      margin: 100px;
+  }
+  li {
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    margin-right: 50px;
+    padding: 20px;
+  }
